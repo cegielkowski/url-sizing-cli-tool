@@ -1,0 +1,8 @@
+# Ignore IntelliJ IDEA metadata
+.idea/
+
+# Ignore specific IntelliJ IDEA files
+.idea/.gitignore
+.idea/.name
+.idea/modules.xml
+.idea/url-sizing-cli-tool.iml
